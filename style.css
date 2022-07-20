@@ -206,13 +206,13 @@ body {
 
 .app-download:nth-child(1) {
 
-    background-image: url('.Page-Instagram/img/apple-button.png');
+    background-image: url(".Page-Instagram/img/apple-button.png");
 
 }
 
 .app-download:nth-child(2) {
 
-    background-image: url('.Page-Instagram/img/googleplay-button.png');
+    background-image: url(".Page-Instagram/img/googleplay-button.png");
 
 }
 
